@@ -7,3 +7,9 @@ Overall there are 152712 posts
 
 * Links
 https://disk.yandex.kz/d/cDyGItFsKjX4Wg
+
+# Task 2
+* EDA
+* Word2Vec
+* Feature importances 
+* Correlation plots
