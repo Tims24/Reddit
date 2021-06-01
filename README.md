@@ -13,3 +13,10 @@ https://disk.yandex.kz/d/cDyGItFsKjX4Wg
 * Word2Vec
 * Feature importances 
 * Correlation plots
+
+# Task 3
+* Classification
+* Clustering
+
+# Task 4
+* Regression (score prediction)
